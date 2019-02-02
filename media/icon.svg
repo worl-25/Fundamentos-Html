@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="384" height="288" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <ellipse cx="77.5" cy="49.5" fill="#00bf00" id="svg_1" rx="29" ry="27.999998" stroke="#000000" stroke-width="5"/>
+  <polygon cx="161.5" cy="203.5" edge="27.406406" fill="#ff0000" id="svg_2" orient="x" points="67.81327819824219,43.5 51.704193115234375,65.6722412109375 25.63916015625,57.20320129394531 25.63916015625,29.796798706054688 51.704193115234375,21.3277587890625 67.81327819824219,43.5 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000"/>
+  <polygon cx="177.5" cy="205.5" edge="18.487233" fill="#ff0000" id="svg_3" orient="x" points="88.2261962890625,63.5 77.35964965820312,78.45648193359375 59.777252197265625,72.74362182617188 59.777252197265625,54.256378173828125 77.35964965820312,48.54351806640625 88.2261962890625,63.5 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000"/>
+  <polygon cx="176.5" cy="211.5" edge="12.018504" fill="#ff0000" id="svg_4" orient="x" points="104.72357177734375,78.5 97.65924072265625,88.22317504882812 86.22897338867188,84.50924682617188 86.22897338867188,72.49075317382812 97.65924072265625,68.77682495117188 104.72357177734375,78.5 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000"/>
+  <polygon cx="248.5" cy="199.5" edge="0" fill="#ff0000" id="svg_5" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="#000000"/>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1.62086 0 0 1.76923 -183.629 -97.3846)" x="196.278053" xml:space="preserve" y="105.717391">WC</text>
+  <polygon cx="147.5" cy="203.5" fill="#000000" id="svg_8" orient="point" point="5" points="86.5,35.32377624511719 87.656494140625,38.841796875 91.17816162109375,38.91767883300781 88.37127685546875,41.167816162109375 89.39126586914062,44.73274230957031 86.5,42.605384826660156 83.6087646484375,44.73274230957031 84.62872314453125,41.167816162109375 81.82183837890625,38.91767883300781 85.343505859375,38.841796875 86.5,35.32377624511719 87.656494140625,38.841796875 " r="10.176225" r2="4.07049" shape="star" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000"/>
+ </g>
+</svg>
